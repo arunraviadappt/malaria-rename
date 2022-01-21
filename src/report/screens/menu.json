@@ -1,0 +1,32 @@
+{
+  "menu": [
+    {
+      "name": "Quick Stats",
+      "menulabel": "QuickStats"
+    },
+    {
+      "name": "Regions",
+      "menulabel": "Regions"
+    },
+    {
+      "name": "Indicators",
+      "menulabel": "IndicatorDataElement"
+    },
+    {
+      "name": "About",
+      "menulabel": "About"
+    },
+    {
+      "name": "Briefing kits",
+      "menulabel": "Links"
+    },
+    {
+      "name": "Abbreviations",
+      "menulabel": "Abbreviations"
+    },
+    {
+      "name": "Disclaimer",
+      "menulabel": "Disclaimer"
+    }
+  ]
+}
