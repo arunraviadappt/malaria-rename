@@ -1,0 +1,35 @@
+{
+    "body": "<p>Malaria in pregnancy is associated with low-birth-weight infants, increased anaemia and, in low-transmission areas, increased risks for severe malaria, pregnancy loss and death. In high-transmission settings, despite the adverse effects on fetal growth, malaria is usually asymptomatic in pregnancy or is associated with only mild, non-specific symptoms. There is insufficient information on the safety, efficacy and pharmacokinetics of most antimalarial agents in pregnancy, particularly during the first trimester.<br \/><br \/><strong>First trimester of pregnancy<\/strong><br \/>&#13;\nSee Justification under recommendation.<br \/><br \/><strong>Second and third trimesters<\/strong><\/p>&#13;\n&#13;\n<p>Experience with artemisinin derivatives in the second and third trimesters (over 4000 documented pregnancies) is increasingly reassuring: no adverse effects on the mother or fetus have been reported. The current assessment of risk\u2013benefit suggests that ACTs should be used to treat uncomplicated falciparum malaria in the second and third trimesters of pregnancy.The current standard six-dose artemether + lumefantrine regimen for the treatment of uncomplicated falciparum malaria has been evaluated in &gt; 1000 women in the second and third trimesters in controlled trials and has been found to be well tolerated and safe. In a low-transmission setting on the Myanmar\u2013Thailand border,however,the efficacy of the standard six-dose artemether + lumefantrine regimen was inferior to 7 days of artesunate monotherapy. The lower efficacy may have been due to lower drug concentrations in pregnancy, as was also recently observed in a high-transmission area in Uganda and the United Republic of Tanzania. Although many women in the second and third trimesters of pregnancy in Africa have been exposed to artemether + lumefantrine, further studies are under way to evaluate its efficacy, pharmacokinetics and safety in pregnant women. Similarly, many pregnant women in Africa have been treated with amodiaquine alone or combined with SP or artesunate; however,amodiaquine use for the treatment of malaria in pregnancy has been formally documented in only &gt; 1300 pregnancies. Use of amodiaquine in women in Ghana in the second and third trimesters of pregnancy was associated with frequent minor side- effects but not with liver toxicity,bone marrow depression or adverse neonatal outcomes.<br \/>&#13;\n\u00a0<\/p>&#13;\n&#13;\n<p>Dihydroartemisinin + piperaquine was used successfully in the second and third trimesters of pregnancy in &gt; 2000 women on the Myanmar\u2013Thailand border for rescue therapy and in Indonesia for first-line treatment. SP, although considered safe, is not appropriate for use as an artesunate partner drug in many areas because of resistance to SP. If artesunate + SP is used for treatment, co-administration of daily high doses (5 mg) of folate supplementation should be avoided, as this compromises the efficacy of SP. A lower dose of folate (0.4\u20130.5 mg bw\/day) or a treatment other than artesunate + SP should be used.<br \/><br \/>&#13;\nMefloquine is considered safe for the treatment of malaria during the second and third trimesters; however,it should be given only in combination with an artemisinin derivative.<br \/><br \/>&#13;\nQuinine is associated with an increased risk for hypoglycaemia in late pregnancy,and it should be used (with clindamycin) only if effective alternatives are not available.<br \/><br \/>&#13;\nPrimaquine and tetracyclines should not be used in pregnancy.<br \/><br \/><strong>Dosing in pregnancy<\/strong><br \/>&#13;\nData on the pharmacokinetics of antimalarial agents used during pregnancy are limited. Those available indicate that pharmacokinetic properties are often altered during pregnancy but that the alterations are insufficient\u00a0 to\u00a0 warrant\u00a0 dose\u00a0 modifications\u00a0 at this time. With quinine, no significant differences in exposure have been seen during pregnancy. Studies of the pharmacokinetics of SP used in IPTp in many sites show significantly decreased exposure to sulfadoxine, but the findings on exposure to pyrimethamine are inconsistent.Therefore,no dose modification is warranted at this time.<br \/><br \/>&#13;\nStudies are available of the pharmacokinetics of artemether + lumefantrine, artesunate + mefloquine and dihydroartemisinin + piperaquine. Most data exist for artemether + lumefantrine; these suggest decreased overall exposure during the second and third trimesters. Simulations suggest that a standard six-dose regimen of lumefantrine given over 5 days, rather than 3 days, improves exposure, but the data are insufficient to recommend this alternative regimen at present.Limited data on pregnant women treated with dihydroartemesinin + piperaquine suggest lower dihydroartemisinin exposure and no overall difference in total piperaquine exposure, but a shortened piperaquine elimination half-life was noted.The data on artesunate + mefloquine are insufficient to recommend an adjustment of dosage. No data are available on the pharmacokinetics of artesunate + amodiaquine in pregnant women with falciparum malaria, although drug exposure was similar in pregnant and non-pregnant women with vivax malaria.<br \/><br \/><strong>Lactating women<\/strong><br \/>&#13;\nThe amounts of antimalarial drugs that enter breast milk and are consumed by breastfeeding infants are relatively small. Tetracycline is contraindicated in breastfeeding mothers because of its potential effect on infants\u2019 bones and teeth. Pending further information on excretion in breast milk, primaquine should not be used for nursing women, unless the breastfed infant has been checked for G6PD deficiency.<\/p>&#13;\n",
+    "title": "5.3.1 - Pregnant and lactating women",
+    "nid": 734,
+    "vid": 4207,
+    "created": 1621407205,
+    "changed": 1625566511,
+    "field_content_type": {
+        "tid": 2,
+        "name": "Content",
+        "class": "content"
+    },
+    "field_left_right_navigation": 1,
+    "field_operational_": [
+        {
+            "field_image": "",
+            "field_link": "",
+            "field_title": null
+        }
+    ],
+    "field_recommendations": 1,
+    "recommendation": "<p>All cases of suspected malaria should have a parasitological test (microscopy or Rapid diagnostic test (RDT)) to confirm the diagnosis.<br \/>\r\nBoth microscopy and RDTs should be supported by a quality assurance programme.<br \/>\r\n<font color=\"#4090CF\"><em>Good practice statement<\/em><\/font><\/p>\r\n",
+    "recommendation_title": "Rapid diagnostic test (RDT)",
+    "field_references": null,
+    "field_tags": [
+        {
+            "tid": 29,
+            "name": "Case management"
+        },
+        {
+            "tid": 47,
+            "name": "Uncomplicated malaria"
+        }
+    ]
+}

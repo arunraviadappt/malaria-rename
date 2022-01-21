@@ -1,0 +1,1034 @@
+[
+    {
+        "name": {
+            "en": "AFRO",
+            "fr": "",
+            "sp": ""
+        },
+        "regionId": {
+            "en": "AFR",
+            "fr": "",
+            "sp": ""
+        },
+        "abbreviation": {
+            "en": "African",
+            "fr": "",
+            "sp": ""
+        },
+        "countries": [
+            {
+                "name": {
+                    "en": "Algeria",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "DZ",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Angola",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "AO",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Benin",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "BJ",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Botswana",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "BW",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Burkina Faso",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "BF",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Burundi",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "BI",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Cabo Verde",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "CV",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Cameroon",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "CM",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Central African Republic",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "CF",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Chad",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "TD",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Comoros",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "KM",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Congo",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "CG",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Côte d'Ivoire",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "CI",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Democratic Republic of the Congo",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "CD",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Equatorial Guinea",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "GQ",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Eritrea",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "ER",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Eswatini",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "SZ",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Ethiopia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "ET",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Gabon",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "GA",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Gambia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "GM",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Ghana",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "GH",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Guinea",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "GN",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Guinea-Bissau",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "GW",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Kenya",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "KE",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Liberia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "LR",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Madagascar",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "MG",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Malawi",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "MW",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Mali",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "ML",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Mauritania",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "MR",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Mozambique",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "MZ",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Namibia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "NA",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Niger",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "NE",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Nigeria",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "NG",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Rwanda",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "RW",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Sao Tome and Principe",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "ST",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Senegal",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "SN",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Sierra Leone",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "SL",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "South Africa",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "ZA",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "South Sudan",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "SS",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Togo",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "TG",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Uganda",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "UG",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "United Republic of Tanzania (Mainland)",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "TA",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "United Republic of Tanzania (Zanzibar)",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "ZZ",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Zambia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "ZM",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Zimbabwe",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "ZW",
+                "weight": -1
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "AMRO",
+            "fr": "",
+            "sp": ""
+        },
+        "regionId": {
+            "en": "AMR",
+            "fr": "",
+            "sp": ""
+        },
+        "abbreviation": {
+            "en": "Region of the Americas",
+            "fr": "",
+            "sp": ""
+        },
+        "countries": [
+            {
+                "name": {
+                    "en": "Argentina",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "AR",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Belize",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "BZ",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Bolivia (Plurinational State of)",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "BO",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Brazil",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "BR",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Colombia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "CO",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Costa Rica",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "CR",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Ecuador",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "EC",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "El Salvador",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "SV",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Guatemala",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "GT",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Guyana",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "GY",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Guyane française",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "GF",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Haïti",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "HT",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Honduras",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "HN",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "México",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "MX",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Nicaragua",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "NI",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Panamá",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "PA",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Paraguay",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "PY",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Perú",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "PE",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "República Dominicana",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "DO",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Suriname",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "SR",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Venezuela (Bolivarian Republic of)",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "VE",
+                "weight": -1
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "EMRO",
+            "fr": "",
+            "sp": ""
+        },
+        "regionId": {
+            "en": "EMR",
+            "fr": "",
+            "sp": ""
+        },
+        "abbreviation": {
+            "en": "Eastern Mediterranean",
+            "fr": "",
+            "sp": ""
+        },
+        "countries": [
+            {
+                "name": {
+                    "en": "Afghanistan",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "AF",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Djibouti",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "DJ",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Iran (Islamic Republic of)",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "IR",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Pakistan",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "PK",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Saudi Arabia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "SA",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Somalia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "SO",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Sudan",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "SD",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Yemen",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "YE",
+                "weight": -1
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "EURO",
+            "fr": "",
+            "sp": ""
+        },
+        "regionId": {
+            "en": "EUR",
+            "fr": "",
+            "sp": ""
+        },
+        "abbreviation": {
+            "en": "European",
+            "fr": "",
+            "sp": ""
+        },
+        "countries": [
+            {
+                "name": {
+                    "en": "Armenia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "AM",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Azerbaijan",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "AZ",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Georgia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "GE",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Kyrgyzstan",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "KG",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Tajikistan",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "TJ",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Turkey",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "TR",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Turkmenistan",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "TM",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Uzbekistan",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "UZ",
+                "weight": -1
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "SEARO",
+            "fr": "",
+            "sp": ""
+        },
+        "regionId": {
+            "en": "SEAR",
+            "fr": "",
+            "sp": ""
+        },
+        "abbreviation": {
+            "en": "South-East Asia",
+            "fr": "",
+            "sp": ""
+        },
+        "countries": [
+            {
+                "name": {
+                    "en": "Bangladesh",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "BD",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Bhutan",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "BT",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Democratic People's Republic of Korea",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "KP",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "India",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "IN",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Indonesia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "ID",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Myanmar",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "MM",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Nepal",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "NP",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Sri Lanka",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "LK",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Thailand",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "TH",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Timor-Leste",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "TL",
+                "weight": -1
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "WPRO",
+            "fr": "",
+            "sp": ""
+        },
+        "regionId": {
+            "en": "WPR",
+            "fr": "",
+            "sp": ""
+        },
+        "abbreviation": {
+            "en": "Western Pacific",
+            "fr": "",
+            "sp": ""
+        },
+        "countries": [
+            {
+                "name": {
+                    "en": "Cambodia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "KH",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "China",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "CN",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Lao People's Democratic Republic",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "LA",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Malaysia",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "MY",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Papua New Guinea",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "PG",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Philippines",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "PH",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Republic of Korea",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "KR",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Solomon Islands",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "SB",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Vanuatu",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "VU",
+                "weight": -1
+            },
+            {
+                "name": {
+                    "en": "Viet Nam",
+                    "fr": "",
+                    "sp": ""
+                },
+                "code": "VN",
+                "weight": -1
+            }
+        ]
+    }
+]
